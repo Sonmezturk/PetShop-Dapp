@@ -4,6 +4,7 @@
 * Ganache 
 * Truffle
 * npm
+* MetaMask
 
 ## Usage
 
